@@ -1,6 +1,5 @@
 
 ## Project Description
-Note: this project is soft launched, which means you may experience bugs. Please click "Report an Issue" in the top-right corner of the project interface to provide feedback.
 
 An important part of business is planning for the future and ensuring that the company survives changing market conditions. Some businesses do this really well and last for hundreds of years. In this project, you'll explore data from BusinessFinancing.co.uk on the world's oldest businesses: when they were founded and which industries they belong to.
 
