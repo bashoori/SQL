@@ -14,3 +14,5 @@ An important part of business is planning for the future and ensuring that the c
 7. Joining everything for further analysis
 8. Counting categories by continent
 9. Filtering counts by continent and category
+
+https://learn.datacamp.com/projects/1168
